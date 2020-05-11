@@ -1,0 +1,4 @@
+#Mon May 11 12:27:40 AEST 2020
+base.0=/Users/anna/Downloads/vuforia-sdk-android-9-1-7/samples/ARdemo/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

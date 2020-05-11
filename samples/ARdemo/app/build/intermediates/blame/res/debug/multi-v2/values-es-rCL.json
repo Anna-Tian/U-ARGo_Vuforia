@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anna/Downloads/vuforia-sdk-android-9-1-7/samples/ARdemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rCL/values-es-rCL.xml",
+            "map": [
+                {
+                    "source": "/Users/anna/.gradle/caches/transforms-2/files-2.1/04fd763c4c7a1bf63e8ae3b0fa7f105b/res/values-es-rCL/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,394,494",
+                        "endColumns": "48,51,98,99,62",
+                        "endOffsets": "242,294,393,493,556"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,267,371",
+                        "endColumns": "52,55,102,103,66",
+                        "endOffsets": "103,159,262,366,433"
+                    }
+                }
+            ]
+        }
+    ]
+}
