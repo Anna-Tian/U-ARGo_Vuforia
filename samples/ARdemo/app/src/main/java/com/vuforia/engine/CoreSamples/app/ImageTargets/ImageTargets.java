@@ -138,9 +138,11 @@ public class ImageTargets extends SampleActivityBase implements SampleApplicatio
         startLoadingAnimation();
         mDatasetStrings.add("StonesAndChips.xml");
         mDatasetStrings.add("Tarmac.xml");
+        mDatasetStrings.add("ImageTarget.xml");
 
         mRuntimeImageSources.add("stones.jpg");
         mRuntimeImageSources.add("chips.jpg");
+        mRuntimeImageSources.add("AnimeUTS.jpg");
         
         vuforiaAppSession
             .initAR(this, ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
@@ -888,7 +890,7 @@ public class ImageTargets extends SampleActivityBase implements SampleApplicatio
         
         group.addRadioItem("Stones & Chips", mStartDatasetsIndex, true);
         group.addRadioItem("Tarmac", mStartDatasetsIndex + 1, false);
-        
+        group.addRadioItem("AnimeUTS", mStartDatasetsIndex + 2, false);
         mSampleAppMenu.attachMenu();
     }
 
