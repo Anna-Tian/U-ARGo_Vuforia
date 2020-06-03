@@ -1,4 +1,4 @@
-#Mon May 11 13:26:40 AEST 2020
-base.0=/Users/anna/git/U-ARGo_Vuforia/samples/ARdemo/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Wed Jun 03 14:07:23 AEST 2020
+base.0=C\:\\Users\\quzic\\OneDrive\\Desktop\\Programming\\SES\\U-ARGo_Vuforia\\samples\\ARdemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

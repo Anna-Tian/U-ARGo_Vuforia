@@ -89,7 +89,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:./../../build/java/Vuforia/Vuforia.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C./Users/quzic/OneDrive/Desktop/Programming/SES/U-ARGo_Vuforia/build/java/Vuforia/Vuforia.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.ar:core:1.10.0@aar" level="project" />
   </component>
 </module>

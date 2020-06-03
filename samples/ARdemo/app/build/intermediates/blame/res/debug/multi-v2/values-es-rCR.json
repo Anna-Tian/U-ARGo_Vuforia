@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anna/git/U-ARGo_Vuforia/samples/ARdemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rCR/values-es-rCR.xml",
+            "outputFile": "C:\\Users\\quzic\\OneDrive\\Desktop\\Programming\\SES\\U-ARGo_Vuforia\\samples\\ARdemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rCR\\values-es-rCR.xml",
             "map": [
                 {
-                    "source": "/Users/anna/.gradle/caches/transforms-2/files-2.1/04fd763c4c7a1bf63e8ae3b0fa7f105b/res/values-es-rCR/values.xml",
+                    "source": "C:\\Users\\quzic\\.gradle\\caches\\transforms-2\\files-2.1\\bac7969bfcd1bf2a539ec471f71aa003\\res\\values-es-rCR\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
